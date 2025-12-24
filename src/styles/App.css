@@ -1,0 +1,8 @@
+/* Additional custom styles if needed */
+.App {
+  min-height: 100vh;
+}
+
+/* Smooth scroll behavior is handled by Tailwind's scroll-smooth utility */
+/* All other styles are handled by Tailwind classes in components */
+
