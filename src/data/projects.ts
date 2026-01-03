@@ -31,6 +31,14 @@ export const projects: Project[] = [
     thumbnail: '/images/ml-model-manager.png',
     demoUrl: 'https://ml-model-manager.vercel.app/',
     codeUrl: 'https://github.com/jacobptnguyen/ml-model-manager'
-  }
+  },
+  {
+    id: '4',
+    title: 'RepoResume.ai',
+    description: 'An AI-powered resume and cover letter generator that analyzes your GitHub repositories to create tailored application materials. Connect your GitHub account, provide a job description, and generate professional resumes and cover letters in seconds with AI-selected relevant projects.',
+    thumbnail: '/images/repo-resume-ai.png',
+    demoUrl: 'https://repo-resume-ai-xj1p.vercel.app/',
+    codeUrl: 'https://github.com/jacobptnguyen/repo-resume-ai'
+  },
 ];
 
